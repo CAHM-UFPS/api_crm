@@ -10,35 +10,11 @@
     },
     {
       "nombre": "Juana María Díaz",
-      "empresa": "Universidad de Los Andes",
+      "empresa": "Biologos SA",
       "correo": "juana@correo.com",
       "telefono": "2324555",
       "notas": "La mejor bióloga del mundo mundial",
       "id": 2
-    },
-    {
-      "nombre": "Cielo Desconocido",
-      "empresa": "UFPS",
-      "correo": "cielo@correo.com",
-      "telefono": "2242340",
-      "notas": "Ojalá pudiera hablar contigo",
-      "id": 3
-    },
-    {
-      "nombre": "Tatiana Morales",
-      "empresa": "Ingenieros Agrónomos",
-      "correo": "tatiana@ufps.edu.co",
-      "telefono": "3032029",
-      "notas": "Estudiante en formación",
-      "id": 4
-    },
-    {
-      "nombre": "Angie Pérez",
-      "empresa": "Tienda Cordialidad",
-      "correo": "angie@correo.com",
-      "telefono": "3234402",
-      "notas": "",
-      "id": 5
     }
   ]
 }
